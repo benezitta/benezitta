@@ -10,7 +10,7 @@
 
 🧭 Currently, I’m pursuing a degree in Business Administration and working at The Walt Disney Company Brazil, where I handle film programming and operational processes in the Theatrical Distribution area.
 
-💞️ I’m deeply committed to empowering women in technology and contributing to a more diverse and inclusive future in the field.
+💞️ I’m looking to collaborate on with the growth of women interested and active in the technology sector in order to change the dominance scenario
 
 📫 You can reach me through my networks:
 
