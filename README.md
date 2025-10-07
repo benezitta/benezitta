@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Systems Development at Etec de Guarulhos
 - 💞️ I’m looking to collaborate on with the growth of women interested and active in the technology sector in order to change the dominance scenario
 - 📫 How to reach me through my networks, here they are:
-- linkedIn: (https://l1nk.dev/5BluX)
+- linkedIn: (https://www.linkedin.com/in/sabrina-benevides)
 - Instagram: (https://www.instagram.com/benezitta?igsh=MW52MjRuODNsMm85bA==)
 - E-mail: sabrinabenevides2005@gmail.com
 - 😄 Pronouns: she/her
