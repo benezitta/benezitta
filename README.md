@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @benezitta
-- 👀 I’m interested in discover new things and deepen my knowledge
-- 🌱 I’m currently learning Systems Development at Etec de Guarulhos
-- 💞️ I’m looking to collaborate on with the growth of women interested and active in the technology sector in order to change the dominance scenario
-- 📫 How to reach me through my networks, here they are:
-- linkedIn: (https://www.linkedin.com/in/sabrina-benevides)
-- Instagram: (https://www.instagram.com/benezitta?igsh=MW52MjRuODNsMm85bA==)
-- E-mail: sabrinabenevides2005@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I work at The Walt Disney Company Brazil
+👋 Hi, I’m @benezitta
+
+👀 I’m passionate about discovering new things and constantly expanding my knowledge.
+
+💻 I started studying technology as a self-taught learner, driven by curiosity and the desire to explore how things work behind the scenes.
+
+🎓 I studied Systems Development for 8 months at ETEC de Guarulhos and completed the “Meninas Programadoras” project by USP, led by Professor Maria da Graça, focused on introducing girls and women to programming and encouraging their participation in technology.
+
+🚀 I also participated in the Protagonistas do Futuro program — a project sponsored by The Walt Disney Company, where I learned app creation through block-based programming, combining creativity, logic, and teamwork.
+
+🧭 Currently, I’m pursuing a degree in Business Administration and working at The Walt Disney Company Brazil, where I handle film programming and operational processes in the Theatrical Distribution area.
+
+💞️ I’m deeply committed to empowering women in technology and contributing to a more diverse and inclusive future in the field.
+
+📫 You can reach me through my networks:
+
+- LinkedIn: ( https://www.linkedin.com/in/sabrina-benevides )
+- Instagram: ( https://www.instagram.com/benezitta?igsh=MW52MjRuODNsMm85bA== )
+
+📧 sabrinabenevides2005@gmail.com
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I get to combine my love for technology and cinema every day through my work, studies, and creative projects!
 
 
 <!---
